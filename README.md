@@ -68,4 +68,5 @@ project 에 사용된 github url : [https://github.com/jedhastwell/platform-game
 - 게임에 사용되는 Sprite 들을 게임에 맞추어 수정이 가능
 - margin / padding 등 수정가능
 - 그 외에 많은 기능이 있어 편리하다고 함 (길게는 소개 안함)
--
+
+- demo 링크 : [https://kangisworking.github.io/html5-game-development-2d-platform-game-fundamentals/dist/index.html](https://kangisworking.github.io/html5-game-development-2d-platform-game-fundamentals/dist/index.html)

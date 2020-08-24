@@ -6,10 +6,12 @@
   "scripts": {
     "start": "webpack-dev-server --mode development",
     "build": "webpack --mode production",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
   },
+  "homepage": "https://kangisworking.github.io/html5-game-development-2d-platform-game-fundamentals/",
   "author": "Jed Hastwell",
-  "repository": "https://github.com/jedhastwell/phaser3-es6-webpack-boilerplate",
+  "repository": "https://github.com/kangisworking/html5-game-development-2d-platform-game-fundamentals/",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.8.3",
@@ -26,6 +28,7 @@
     "webpack-dev-server": "^3.10.1"
   },
   "dependencies": {
+    "gh-pages": "^3.1.0",
     "phaser": "^3.22.0"
   }
 }
